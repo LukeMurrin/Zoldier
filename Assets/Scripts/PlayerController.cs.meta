@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5a106be7e9e36ae42ac5c0fffda4c8c2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - camera: {instanceID: 0}
+  - PlayerObj: {fileID: 6048777676743654421, guid: 92aafadbc9620ee418ef11400941e8f0, type: 3}
+  - bulletSpawnPoint: {instanceID: 0}
+  - Bullet: {fileID: 3538546887825784849, guid: c4c180e509358ef4e9cd044b7ad27b32, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
